@@ -1,0 +1,18 @@
+body {
+  background: skyblue;
+}
+.primary-header {
+  background: orange;
+}
+.primary-sidebar {
+  background: yellow;
+}
+.secondary-sidebar {
+  background: green;
+}
+.primary-footer {
+  background: purple;
+}
+.little-boxes li {
+  background: pink;
+}

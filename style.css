@@ -1,0 +1,12 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 100px auto 75px;
+}
+.primary-header,
+.primary-footer {
+  grid-column: 1 / 4;
+}
+.secondary-sidebar {
+  grid-column: 3 / 4;
+}
+
